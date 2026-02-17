@@ -207,25 +207,6 @@ Income bands show equal attrition.
 
 ---
 
-# 📊 Dashboard Improvement Suggestions (for you)
-
-You’re on a strong track — these tweaks will make it professional-level:
-
-**Add:**
-
-* Attrition trend over time
-* Satisfaction vs attrition correlation
-* Attrition by age group
-* Attrition by job role
-
-**Improve:**
-
-* Fix typo: “AVERAGE_WORKLIFE BALANCE”
-* Increase contrast on donut labels
-* Replace gauge with comparison chart (more informative)
-
----
-
 # ✅ Final Summary
 
 This dashboard clearly shows a **systemic attrition and satisfaction problem**, especially affecting employees in their first two years, and not limited to any department or salary level. The organization likely needs broad engagement and career-growth interventions rather than pay adjustments alone.
